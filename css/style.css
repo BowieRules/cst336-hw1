@@ -16,7 +16,7 @@ body {
     background-position: center top;
 }
 
-navigation {
+nav {
     position: absolute;
     top: 0px;
     left: 50%;
@@ -28,14 +28,14 @@ navigation {
     line-height: 15px;
 }
 
-    navigation a {
+    nav a {
         color: #999;
         text-decoration: none;
         font-size: x-small;
         text-transform: uppercase;
     }
 
-        navigation a:hover {
+        nav a:hover {
             color: #333;
         }
 
